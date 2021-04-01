@@ -1,6 +1,7 @@
 # Covid_telegram_bot
 
 Covid informer for telegram.
+@covid_19_informer_bot
 ____________________________
 
 How to start this bot in your Windows:
